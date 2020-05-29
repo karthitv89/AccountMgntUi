@@ -9,10 +9,13 @@ ag grid user for tables.
 ## Pages:
   Login Page:
 		login
+    
   Account Submision by user:
 		accountSubmission
+    
   View submitted requests by user. Also user can view exclusion accounts:
 		viewRequests
+    
   Admin Approval or reject:
 		adminApproval
 
