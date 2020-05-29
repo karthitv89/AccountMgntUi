@@ -2,10 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
-# AccountMgntUi
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
-
 Basics are is working. UX is not focused as I am a beginner level angular programmer. I have created this application, may be without following best practices.
 
 ag grid user for tables.
